@@ -5,11 +5,11 @@ body {
 
 .centered {
     display: block;
-    margin: 0 auto;
+    
   }
 
 .carousel {
-    max-height: 700px;
+    max-height: 200px;
     text-align: center;
     display: flex;
 }
